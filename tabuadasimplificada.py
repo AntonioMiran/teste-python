@@ -1,6 +1,6 @@
 from time import sleep
 print('_='*10)
-print('Meu Jogo de Tabuadas')
+print('Meu Exercicío de Tabuadas')
 print('_='*10)
 num = int(input('Digite um número: '))
 print('Processando...')
